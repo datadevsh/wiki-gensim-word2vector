@@ -1,5 +1,8 @@
 # wiki-gensim-word2vector
+
 维基百科语料库做词向量
+
+https://yq.aliyun.com/articles/667458
 
 ### 说明
 
