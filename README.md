@@ -2,6 +2,10 @@
 
 维基百科语料库做词向量
 
+最终的模型文件：
+链接：https://pan.baidu.com/s/1acGhejPCw98Mx4iKozVZdw 
+提取码：vsm1
+
 博客地址：https://yq.aliyun.com/articles/667458
 
 ### 说明
