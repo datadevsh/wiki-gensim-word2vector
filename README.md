@@ -24,7 +24,6 @@ https://my.oschina.net/datadev/blog/1836529
 
 下载地址：https://dumps.wikimedia.org/zhwiki/
 
-![Image_300](https://yqfile.alicdn.com/a447042ab05ac8f72b05514e1ee9eff09ea9ec40.png)
 
 ### 2. 解析xml
 
