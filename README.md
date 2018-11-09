@@ -2,7 +2,7 @@
 
 维基百科语料库做词向量
 
-https://yq.aliyun.com/articles/667458
+博客地址：https://yq.aliyun.com/articles/667458
 
 ### 说明
 
