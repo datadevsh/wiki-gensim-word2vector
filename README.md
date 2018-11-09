@@ -3,9 +3,13 @@
 
 ### 说明
 
-如果遇到编码问题，参考：        
-《维基百科文件解析成中文遇到的变量类型、编码问题》                
+1. 源码github地址：https://github.com/datadevsh/wiki-gensim-word2vector
+
+2. 如果遇到编码问题，参考《维基百科文件解析成中文遇到的变量类型、编码问题》      
 https://my.oschina.net/datadev/blog/1836529
+
+
+3. 如果使用pycharm，可能会发生内存不足。把两个pycharm64.exe.vmoptions文件的-Xmx参数调大。
 
 ### 执行时间
 
