@@ -2,28 +2,21 @@
 
 维基百科语料库做词向量
 
-最终的模型文件：
-链接：https://pan.baidu.com/s/1acGhejPCw98Mx4iKozVZdw 
-提取码：vsm1
-
-博客地址：https://yq.aliyun.com/articles/667458
-
 ### 说明
 
-1. 源码github地址：https://github.com/datadevsh/wiki-gensim-word2vector
-
-2. 如果遇到编码问题，参考《维基百科文件解析成中文遇到的变量类型、编码问题》      
+1. 最终的模型文件：链接：https://pan.baidu.com/s/1acGhejPCw98Mx4iKozVZdw 提取码：vsm1
+2. 博客地址：https://yq.aliyun.com/articles/667458
+3. 源码github地址：https://github.com/datadevsh/wiki-gensim-word2vector
+4. 如果遇到编码问题，参考《维基百科文件解析成中文遇到的变量类型、编码问题》    
 https://my.oschina.net/datadev/blog/1836529
-
-
-3. 如果使用pycharm，可能会发生内存不足。把两个pycharm64.exe.vmoptions文件的-Xmx参数调大。
+5. 如果使用pycharm，可能会发生内存不足。把两个pycharm64.exe.vmoptions文件的-Xmx参数调大。
 
 ### 执行时间
 
-1 解析xml  		13分钟
-2 繁体2简体  	比较快
-3 jieba分词 	27分钟
-4 模型训练		22分钟	
+1 解析xml  		13分钟    
+2 繁体2简体  	比较快     
+3 jieba分词 	27分钟     
+4 模型训练		22分钟	     
 
 
 ### 1. 下载文件
